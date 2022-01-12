@@ -1,0 +1,7 @@
+[qcloud]
+SecretId = "ssssssssssssssssssss"
+SecretKey = "dddddddddddddddddddddd"
+CwpUrl = 'cwp.tencentcloudapi.com'
+
+[VulHandler]
+1111111111111111111111111
