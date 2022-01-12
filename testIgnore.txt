@@ -4,5 +4,3 @@ SecretKey = "dddddddddddddddddddddd"
 CwpUrl = 'cwp.tencentcloudapi.com'
 
 [VulHandler]
-1111111111111111111111111
-1111111111111111111111111
